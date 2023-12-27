@@ -19,7 +19,7 @@
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in web developer especially Front-End Web Dev
-- 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning at Di Pamulang University, majoring in Informatics, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🖥️ See my portfolio at [viddokta.com](https://portofolio-viddokta-tailwindcss.netlify.app/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:davidokta56@gmail.com?">davidokta56@gmail.com</a>
