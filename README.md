@@ -23,7 +23,7 @@
 - 🖥️ See my portfolio at [viddokta.com](https://portofolio-viddokta-tailwindcss.netlify.app/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:davidokta56@gmail.com?">davidokta56@gmail.com</a>
-- 📄 Please have a look at my <a href="#">resume</a> for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my <a href="https://drive.google.com/file/d/1qSdpZ6aUuWw6EqD4AlTpQESyJ5J30eXp/view?usp=drivesdk">resume</a> for more details about me. I'm open to feedback and suggestions!
 - 🧠 I'm learning NextJS and TailwindCSS.
 <!-- - 🏦 I'm a Front End Engineer working for a Kamus Crypto startup in Indonesia -->
 
